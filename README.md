@@ -1,43 +1,58 @@
-# OTT-Analytics-Dasboard
+# 🎬 OTT Analytics Dashboard
 
-## Overview
+## 📌 About the Project
 
-This project is a **Power BI-based OTT analytics dashboard** created to explore and understand content available across major streaming platforms — **Netflix, Amazon Prime Video, and Disney+ Hotstar**.
+Streaming platforms have transformed the way people discover and consume entertainment. With thousands of movies and TV shows available across different platforms, this project explores the content landscape of **Netflix, Amazon Prime Video, and Disney+ Hotstar** through data.
 
-The project focuses on transforming raw OTT datasets into meaningful visual insights and presenting them through interactive dashboards.
+Using **Microsoft Power BI**, raw OTT datasets were transformed into interactive dashboards that make it easier to explore patterns in content, genres, ratings, release years, and other key attributes.
 
-## Analysis
+The project focuses on turning raw data into **clear, visual, and meaningful insights**.
 
-The dashboards explore different aspects of OTT content, including:
+## 🔎 What Does the Dashboard Explore?
 
-- Movies and TV shows
-- Content distribution
-- Release year trends
-- Genres and categories
-- Ratings
-- Content duration
-- Directors and other content attributes
-- Platform-wise content patterns
+The analysis covers different dimensions of OTT content, including:
 
-## Tools Used
+- 🎞️ Movies vs. TV Shows
+- 📅 Content and release-year trends
+- 🎭 Genres and categories
+- ⭐ Content ratings
+- ⏱️ Movie and TV show duration
+- 🎬 Directors and content characteristics
+- 📊 Platform-wise content distribution
 
-- **Microsoft Power BI**
-- **Power Query**
-- **Microsoft Excel**
-- **Data Visualization**
+## 🧰 Tools & Technologies
 
-## Datasets
+- **Microsoft Power BI** — Dashboard development and visualization
+- **Power Query** — Data cleaning and transformation
+- **Microsoft Excel** — Dataset handling
+- **Data Visualization** — Presenting patterns and insights
 
-The project uses separate datasets for Netflix, Amazon Prime Video, and Disney+ Hotstar. The original datasets are included in this repository for reference and analysis.
+## 📂 Project Contents
 
-## Power BI Project
+This repository contains:
 
-The `.pbix` file containing the Power BI dashboard is included in the repository.
+- Separate datasets for **Netflix, Amazon Prime Video, and Disney+ Hotstar**
+- Power BI `.pbix` project file
+- Dashboard visualizations
 
-## Objective
+## 🎯 Project Goal
 
-The main objective of this project is to practice **data cleaning, transformation, analysis, and visualization** using Power BI, while gaining insights into the content landscape of popular OTT platforms.
+The goal of this project is to understand how OTT content can be explored through data and to demonstrate the complete workflow of a basic analytics project — from **raw datasets and data preparation to interactive visualization and insight generation**.
 
-## Author
+## 💡 Key Learning
 
-**Ram****
+This project provided practical experience with:
+
+- Data preparation and transformation
+- Working with real-world datasets
+- Building interactive Power BI dashboards
+- Creating meaningful visualizations
+- Exploring and communicating data-driven insights
+
+---
+
+### 👨‍💻 Author
+
+**Ram**
+
+*Data Analytics | Power BI | Machine Learning*
